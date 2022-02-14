@@ -1,2 +1,2 @@
-# .bash_aliases
+# dotfiles
 My first bash aliases in JSON
